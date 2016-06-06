@@ -1,2 +1,2 @@
-# moved-to-atom
-Brightray and related repositories have moved to https://github.com/atom
+# moved-to-elecctron
+Brightray and related repositories have moved to https://github.com/electron
